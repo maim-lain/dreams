@@ -15,11 +15,18 @@
 
 ## Episode 1
 ### Day 1
-- Warn him (+1 Trust)
+- Warn him
 - Yes (Accept the invitation)
-- Peek (+2 Lust)
+- Peek
 - Keep chosing "Keep watching" and "Just watch"
 
 <br>
 
 ### Day 2
+- Check PC -> Take a shower -> Get breakfast
+- Chat -> asdf all 3
+- Compliment -> Food
+- Finish meal
+- Compliment
+- Conservative
+- Accept
