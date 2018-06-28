@@ -1,4 +1,4 @@
-# Dreams of Desire - Simplified walkthrough
+# Dreams of Desire - Simple walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -13,6 +13,13 @@
 
 <br>
 
-## Day 1
-- Warn him
-- Yes (Go to the party)
+## Episode 1
+### Day 1
+- Warn him (+1 Trust)
+- Yes (Accept the invitation)
+- Peek (+2 Lust)
+- Keep chosing "Keep watching" and "Just watch"
+
+<br>
+
+### Day 2
