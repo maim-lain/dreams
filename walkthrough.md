@@ -20,7 +20,7 @@
 - Peek
 - Keep chosing "Keep watching" and "Just watch"
 - You can choose whichever you like
-  - The game takes note of what you pick in the end. Specific content will be available in future episodes depending on night scene choices. (e.g. you always choose feet, you will have more of that content available and specific actions for that category later)
+  - The game will take note of what you pick. Specific content will be available in future episodes depending on night scene choices. (e.g. you always choose feet, you will have more of that content available and specific actions for that category later)
 
 <br>
 
