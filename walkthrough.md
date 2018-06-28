@@ -20,7 +20,8 @@
 - Peek
 - Keep chosing "Keep watching" and "Just watch"
 - You can choose whichever you like
-  - The game will take note of what you pick. Specific content will be available in future episodes depending on scene choices. E.g. you always choose feet, you will have more of that content available and specific actions for that category later. Stick to one type throughout one playthrough to make sure you get all the content of that route in future episodes.
+  - The game will take note of what you pick. Specific content will be available in future episodes depending on scene choices. E.g. you always choose feet, you will have more of that content available and specific actions for that category later.
+  - Stick to one type throughout one playthrough to make sure you get all the content of that route in future episodes.
 
 <br>
 
