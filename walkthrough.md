@@ -3,13 +3,7 @@
 
 <br>
 
-#### Alice
-- Love Route  
-- [Dominant Route](https://f95zone.com/threads/dreams-of-desire-episode-12-v1-0-0-lewdlab-discussion-thread.1904/page-793#post-812485)
-
-#### Tracy
-- Tracy Love Route
-- Tracy Dominant Route
+- [Alice Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
 
 <br>
 <br>
@@ -21,6 +15,14 @@
 
 
 <!---
+
+- Alice Love Route  
+- [Alice Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+
+<br>
+
+- Tracy Love Route
+- Tracy Dominant Route
 
 simple and no spoilers
 
