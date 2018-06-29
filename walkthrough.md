@@ -22,20 +22,14 @@
 
 - Peek
 - Keep chosing "Keep watching" and "Just watch"
-
-<br>
-
-- You can choose whichever you like
-  - The game will take note of what you pick. Specific content will be available in future episodes depending on scene choices. E.g. you always choose feet, you will have more of that content available and specific actions for that category later.
-  - Stick to one type throughout one playthrough to make sure you get all the content of that route in future episodes.
+- Choose any
+  - The game will take note of what you pick. Specific content will be available in future episodes depending on scene choices. E.g. if you always choose feet, you will have more of that content available and specific actions for that category later.
+  - Stick to one type throughout one playthrough to make sure you get all the content of that route.
 
 <br>
 
 ### Day 2
 - Check PC -> Take a shower -> Get breakfast
-
----
-
 - Chat -> Do all 3 options
 - Compliment -> Food
 - Finish meal
@@ -44,4 +38,16 @@
 
 - Compliment
 - Conservative
+
+---
+
 - Accept
+- Choose any
+- Choose any
+
+<br>
+<br>
+
+## Episode 2
+### Day 3
+- Check PC -> Take a shower -> Get breakfast
