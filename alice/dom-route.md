@@ -123,7 +123,7 @@
 
 #### Evening events:
 - Alice and Mom -> Alice
-- Coffee shop -> Marcus -> ? Tell him?
+- Coffee shop -> Marcus -> Tell him?
 - Go to your Aunt's house
 - Go to the library
 
@@ -139,12 +139,17 @@
 
 ## Episode 5
 ### Day 9
-- Choose either outfit
+#### Morning:
+- Choose the alternate outfit for an ass scene or choose the normal outfit for a tits scene
 - Check PC -> Take a shower -> Go to Marcus
 - Choose any
-- Yes -> She's alright
-- Offer a shot -> Offer a shot
-- Business consultant -> Mr Catsup
+
+#### Dinner date:
+- Yes
+- She's alright
+- Choose "Offer a shot" both times
+- Business consultant
+- Mr. Catsup
 
 <br>
 <br>
