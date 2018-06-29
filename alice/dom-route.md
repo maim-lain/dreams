@@ -122,7 +122,7 @@
   - Library with Mom -> You can choose between two kinds of scenes, no story relevance, pick which you like more
 
 #### Evening events:
-- Alice and Mom -> Alice
+- Terrace -> Alice and Mom -> Alice
 - Coffee shop -> Marcus -> Tell him?
 - Go to your Aunt's house
 - Go to the library
