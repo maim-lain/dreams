@@ -109,7 +109,14 @@
 
 ## Episode 5
 ### Day 9
-- Choose alternate outfit for ass scene or choose normal outfit for boobs scene
-  - This doesn't count towards how many times you've picked ass or boobs
+- Choose either outfit
 - Check PC -> Take a shower -> Go to Marcus
-- f
+- Choose any
+- Yes -> She's alright
+- Offer a shot -> Offer a shot
+- Business consultant -> Mr Catsup
+
+<br>
+
+### Day 10
+- Check PC -> Take a shower -> Get breakfast
