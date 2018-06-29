@@ -120,3 +120,10 @@
 
 ### Day 10
 - Check PC -> Take a shower -> Get breakfast
+Choosing Mom, Tracy or Alice
+
+It will matter who you choose here in the long run. It's worth saving before deciding to play through the different routes. Mom and Alice have extras scene in their routes.
+
+    Mom – You will go hiking and end up in a cabin naked with some hot action
+    Tracy – You will go for a ride, but you both are in for an unpleasant surprise
+    Alice – You’ll go get some ice cream, then play some video games in Alice’s room
