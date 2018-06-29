@@ -42,8 +42,7 @@
 ---
 
 - Accept
-- Choose any
-- Choose any
+- Choose any for the rest of today's choices
 
 <br>
 <br>
@@ -51,3 +50,26 @@
 ## Episode 2
 ### Day 3
 - Check PC -> Take a shower -> Get breakfast
+- Chat -> Do all 3 options
+- Compliment -> Outfit
+- Finish meal
+
+---
+
+- Left door
+- Keep watching until she has her yoga pants on, that's the time you have to stop
+
+---
+
+- Help her
+- Chat with mom -> Chat -> Do all 3 options
+- Finish meal
+
+---
+
+- Find mom
+- Keep pushing (dominant route)
+
+---
+
+- Choose any
