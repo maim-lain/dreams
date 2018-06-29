@@ -18,6 +18,8 @@
 - Warn him
 - Yes (Accept the invitation)
 
+<br>
+
 - Peek
 - Keep chosing "Keep watching" and "Just watch"
 - You can choose whichever you like
@@ -28,7 +30,6 @@
 
 ### Day 2
 - Check PC -> Take a shower -> Get breakfast
-
 - Chat -> Do all 3 options
 - Compliment -> Food
 - Finish meal
