@@ -3,7 +3,7 @@
 
 <br>
 
-- [**Patch v1.0.1**](https://f95zone.com/threads/dreams-of-desire-episode-12-v1-0-0-lewdlab-discussion-thread.1904/page-763#post-801139)  
+- [**Patch v1.0.1**](https://f95zone.com/threads/dreams-of-desire-episode-12-v1-0-0-lewdlab-discussion-thread.1904/page-793#post-812485)  
 - [**Gallery and bugfixes mod**](https://f95zone.com/threads/dreams-of-desire-ep-12-gallery-unlocker-and-bugfixes-mod-v5-0-bossapplesauce.11194)  
 - [**UI mod**](https://f95zone.com/threads/dreams-of-desire-episode-12-v1-0-0-lewdlab-discussion-thread.1904/page-763#post-801139)
 
@@ -17,6 +17,7 @@
 ### Day 1
 - Warn him
 - Yes (Accept the invitation)
+
 - Peek
 - Keep chosing "Keep watching" and "Just watch"
 - You can choose whichever you like
@@ -27,7 +28,8 @@
 
 ### Day 2
 - Check PC -> Take a shower -> Get breakfast
-- Chat -> asdf all 3
+
+- Chat -> Do all 3 options
 - Compliment -> Food
 - Finish meal
 - Compliment
