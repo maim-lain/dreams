@@ -17,9 +17,6 @@
 ### Day 1
 - Warn him
 - Yes (Accept the invitation)
-
-<br>
-
 - Peek
 - Keep chosing "Keep watching" and "Just watch"
 - Choose any
@@ -33,14 +30,8 @@
 - Chat -> Do all 3 options
 - Compliment -> Food
 - Finish meal
-
----
-
 - Compliment
 - Conservative
-
----
-
 - Accept
 - Choose any for the rest of today's choices
 
@@ -53,23 +44,20 @@
 - Chat -> Do all 3 options
 - Compliment -> Outfit
 - Finish meal
-
----
-
 - Left door
-- Keep watching until she has her yoga pants on, that's the time you have to stop
-
----
-
+- Keep watching until she has her yoga pants on, that's when you have to choose Stop
 - Help her
 - Chat with mom -> Chat -> Do all 3 options
 - Finish meal
-
----
-
 - Find mom
 - Keep pushing (dominant route)
-
----
-
 - Choose any
+
+<br>
+
+### Day 3
+- I suggest to click everything, you get valuable story pieces.
+  - Tracy's key is on the Terrace in the plants.
+  - Publisher's Contact info is in Mom's room in the right bedside table.
+  - After you have the items go to Tracy's room, click on the laptop. Go to your room and click on the PC.
+  - Click the Finish Exploration button that appears in the sixth navigation button slot.
