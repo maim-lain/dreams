@@ -1,4 +1,4 @@
-# Dreams of Desire: Alice (Dominant) Walkthrough
+# Alice - Dominant Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
