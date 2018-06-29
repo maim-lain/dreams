@@ -1,4 +1,4 @@
-# Alice - Dominant Walkthrough
+# Alice - Dominant Route
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -107,23 +107,33 @@
 
 ## Episode 4
 ### Day 7
+#### Morning:
 - Check PC -> Take a shower -> Watch
 - Get breakfast
 - Chat -> Choose both
 - Compliment -> Alice
 - Finish meal
-- Alice's room -> Alice
-- Coffe shop -> Tracy -> Pat her ass
+
+#### Afternoon events:
+- Go to Alice's room and talk to Alice
+- You have three choices and can only do one:
+  - Coffee shop -> Tracy -> Pat her ass
+  - TV with mom -> Romantic gives +1 Trust, Porn gives +1 Lust
+  - Library with Mom -> You can choose between two kinds of scenes, no story relevance, pick which you like more
+
+#### Evening events:
 - Alice and Mom -> Alice
-- Coffe shop -> Marcus -> Tell him? (affects day 17..)
+- Coffee shop -> Marcus -> ? Tell him?
 - Go to your Aunt's house
 - Go to the library
 
+<br>
 <br>
 
 ### Day 8
 - Check PC -> Take a shower -> Get breakfast
 
+<br>
 <br>
 <br>
 
@@ -137,7 +147,15 @@
 - Business consultant -> Mr Catsup
 
 <br>
+<br>
 
 ### Day 10
 - Check PC -> Take a shower -> Get breakfast
 - choose alice
+
+<br>
+<br>
+<br>
+
+## Episode 6
+### Day 11
