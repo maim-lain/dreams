@@ -9,7 +9,6 @@
 <br>
 
 #### I recommend downloading these:
-- [**Patch v1.0.1**](https://f95zone.com/threads/dreams-of-desire-episode-12-v1-0-0-lewdlab-discussion-thread.1904/page-793#post-812485)  
 - [**Gallery and bugfixes mod**](https://f95zone.com/threads/dreams-of-desire-ep-12-gallery-unlocker-and-bugfixes-mod-v5-0-bossapplesauce.11194)  
 - [**UI mod**](https://f95zone.com/threads/dreams-of-desire-ui-mod-and-simplified-walkthrough.14459/)
 
