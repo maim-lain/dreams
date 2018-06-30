@@ -16,13 +16,13 @@
 
 <!---
 
-- Alice Love Route  
-- [Alice Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+- Alice - Love Route  
+- [Alice - Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
 
 <br>
 
-- Tracy Love Route
-- Tracy Dominant Route
+- Tracy - Love Route
+- Tracy - Dominant Route
 
 simple and no spoilers
 
