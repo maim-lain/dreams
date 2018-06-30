@@ -140,7 +140,7 @@
 ## Episode 5
 ### Day 9
 #### Morning:
-- Choose the alternate outfit for an ass scene or choose the normal outfit for a tits scene
+- Choose "Alternate outfit" for an ass scene or choose "Normal outfit" for a tits scene
 - Check PC -> Take a shower -> Go to Marcus
 - Choose any
 
