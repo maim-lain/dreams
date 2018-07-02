@@ -156,7 +156,8 @@
 
 ### Day 10
 - Check PC -> Take a shower -> Get breakfast
-- choose alice
+- Alice
+- Choose any
 
 <br>
 <br>
@@ -164,3 +165,4 @@
 
 ## Episode 6
 ### Day 11
+- Check PC -> Take a shower -> Get breakfast
