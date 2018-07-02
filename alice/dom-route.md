@@ -157,7 +157,7 @@
 ### Day 10
 - Check PC -> Take a shower -> Get breakfast
 - Alice
-- Choose any
+- Choose either outfit (difference is..)
 
 <br>
 <br>
