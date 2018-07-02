@@ -2,8 +2,10 @@
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
+<br>
 
-- [Alice Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+- [Alice - Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+- Tracy - Dominant Route
 
 <br>
 <br>
