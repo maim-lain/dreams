@@ -27,5 +27,6 @@
 
 ep4 day 7 - Coffee shop -> Marcus -> Tell him? (affects day 17 with bikes..)
 ep5 day 9 - mom -> but Kiss gives +2 Trust points (which will come in handy in later Episodes)
+ep5 day 10 - difference between outfits is..?
 
 --->
