@@ -166,3 +166,93 @@
 ## Episode 6
 ### Day 11
 - Check PC -> Take a shower -> Get breakfast
+
+<br>
+<br>
+
+### Day 12
+- a
+
+<br>
+<br>
+<br>
+
+## Episode 7
+### Day 13
+- a
+
+<br>
+<br>
+
+### Day 14
+- a
+
+<br>
+<br>
+<br>
+
+## Episode 8
+### Day 15
+- a
+
+<br>
+<br>
+
+### Day 16
+- a
+
+<br>
+<br>
+<br>
+
+## Episode 9
+### Day 17
+- a
+
+<br>
+<br>
+
+### Day 18
+- a
+
+<br>
+<br>
+<br>
+
+## Episode 10
+### Day 19
+- a
+
+<br>
+<br>
+
+### Day 20
+- a
+
+<br>
+<br>
+<br>
+
+## Episode 11
+### Day 21
+- a
+
+<br>
+<br>
+
+### Day 22
+- a
+
+<br>
+<br>
+<br>
+
+## Episode 12
+### Day 23
+- a
+
+<br>
+<br>
+
+### Day 24
+- a
