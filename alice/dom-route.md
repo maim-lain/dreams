@@ -157,7 +157,7 @@
 ### Day 10
 - Check PC -> Take a shower -> Get breakfast
 - Alice
-- Choose either outfit (difference is..)
+- Choose either outfit
 
 <br>
 <br>
@@ -165,13 +165,16 @@
 
 ## Episode 6
 ### Day 11
-- Check PC -> Take a shower -> Get breakfast
+- Check PC -> Take a shower -> Go to library
 
 <br>
 <br>
 
 ### Day 12
-- a
+- Check PC -> Take a shower -> Get breakfast
+- Choose any
+- Alice
+- Choose "Mom" for fingering scene or "Jenna" for throat fuck scene
 
 <br>
 <br>
@@ -179,7 +182,10 @@
 
 ## Episode 7
 ### Day 13
-- a
+- Choose either outfit
+- Sometimes
+- Choose any
+- The spins are randomized. There is a little easter egg hidden here.?
 
 <br>
 <br>
