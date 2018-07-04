@@ -174,8 +174,10 @@
 - Check PC -> Take a shower -> Get breakfast
 - Choose any
 - Alice
-- Choose "Mom" for fingering scene or "Jenna" for throat fuck scene
-
+- Choose one:
+  - Jenna (throat fuck)
+  - Mom (fingering)
+  
 <br>
 <br>
 <br>
