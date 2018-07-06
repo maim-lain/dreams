@@ -205,7 +205,7 @@
   - If you are doing method 1 it needs to land on Tracy, if you are doing method 2 it needs to land on Aby
   - If it lands on the wrong person reload your save
   
-Turn | Method 1 | Method 2
+&nbsp; | Method 1 | Method 2
 --- | --- | ---
 First spin | Aby | Alice
 Second spin | Alice | Tracy
