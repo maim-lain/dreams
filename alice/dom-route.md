@@ -193,6 +193,12 @@
 - Choose any
 
 #### Spin the bottle:
+&nbsp; | Method 1 | Method 2
+--- | --- | ---
+First spin | Aby | Alice
+Second spin | Alice | Tracy
+Third spin | Tracy | Aby
+
 - First spin:
   - If it lands on Aby do method 1
   - If it lands on Alice do method 2
@@ -205,12 +211,6 @@
   - If you are doing method 1 it needs to land on Tracy, if you are doing method 2 it needs to land on Aby
   - If it lands on the wrong person reload your save
   
-&nbsp; | Method 1 | Method 2
---- | --- | ---
-First spin | Aby | Alice
-Second spin | Alice | Tracy
-Third spin | Tracy | Aby
-
 <br>
 <br>
 
