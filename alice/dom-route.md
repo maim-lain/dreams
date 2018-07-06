@@ -193,21 +193,23 @@
 - Choose any
 
 #### Spin the bottle:
-- Tracy's turn:
+- First spin:
   - If it lands on Aby do method 1
   - If it lands on Alice do method 2
-- Aby's turn: Once you see "Spin it!" the second time, save your game on this screen, then spin
+  - Once you see "Spin it!" the second time, save your game on this screen, then spin
+- Second spin:
   - If you are doing method 1 it needs to land on Alice, if you are doing method 2 it needs to land on Tracy
   - If it lands on the wrong person reload your save
-- Alice's turn: Once you see "Spin it!" the third time, save your game on this screen, then spin
+  - Once you see "Spin it!" the third time, save your game on this screen, then spin
+- Third spin:
   - If you are doing method 1 it needs to land on Tracy, if you are doing method 2 it needs to land on Aby
   - If it lands on the wrong person reload your save
   
 Turn | Method 1 | Method 2
 --- | --- | ---
-Tracy's turn | Aby | Alice
-Aby's turn | Alice | Tracy
-Alice's turn | Tracy | Aby
+First spin | Aby | Alice
+Second spin | Alice | Tracy
+Third spin | Tracy | Aby
 
 <br>
 <br>
