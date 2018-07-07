@@ -215,21 +215,25 @@ Third spin | Tracy | Aby
 <br>
 
 ### Day 14
-- a
+- By the door
+- Stay inside
+- Sneak out
 
 <br>
 <br>
 <br>
 
-## Episode 8
+## Episode 8 ---------------------------------------------
 ### Day 15
-- a
+- You can choose to either follow Tracy and Nora, or go to the date with Aby
+  - If you go with Aby, you get a scene with her in the cinema, and she comes over.
+  - This is an important decision.
 
 <br>
 <br>
 
 ### Day 16
-- a
+- You can choose 2 of the dreams to enter.
 
 <br>
 <br>
