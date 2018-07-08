@@ -257,7 +257,7 @@ Third spin | Tracy | Aby
 <br>
 
 ### Day 20
-- tell truth or lie to tracy (lie will get corruption ending)
+- Lie
 
 <br>
 <br>
@@ -265,21 +265,33 @@ Third spin | Tracy | Aby
 
 ## Episode 11
 ### Day 21
-- Find the photo on the shelf, which has the password for the tablet
-  - The tablet is in the kitchen. You have to click it AFTER you clicked the photo
+- Choose either outfit
+- The fourth room has the photo on the shelf, which has the password for the tablet
+  - The tablet is in the second room on the table
   - The password is 0613
 
 <br>
 <br>
 
 ### Day 22
-- collect 3 essences to progress
-  - You can also choose to visit all the girls, but it doesn’t give additional benefits
+- Alice
+- You can also choose to visit all the girls for all the scenes, but you're only required to visit two more of your family members
+
+<br>
+<br>
+
+### Day 23
+- Choose any
 
 <br>
 <br>
 <br>
 
 ## Episode 12
+- Alternate outfit
+- Choose any
+- Footjob
+- Accept
+
 ### Corruption ending
 - Congrats, you beat the game!
