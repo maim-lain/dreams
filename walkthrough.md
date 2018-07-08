@@ -4,8 +4,8 @@
 <br>
 <br>
 
-- [Alice - Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
-- [Tracy - Dominant Route](https://github.com/maim-lain/dreams/blob/master/tracy/dom-route.md)
+- [Alice - Dominant Route (100% complete)](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+- [Tracy - Dominant Route (15% complete)](https://github.com/maim-lain/dreams/blob/master/tracy/dom-route.md)
 
 <br>
 <br>
@@ -24,8 +24,5 @@
 
 - Tracy - Love Route
 - Tracy - Dominant Route
-
-ep4 day 7 - Coffee shop -> Marcus -> Tell him? (affects day 17 with bikes..)
-ep5 day 9 - mom -> but Kiss gives +2 Trust points (which will come in handy in later Episodes)
 
 --->
