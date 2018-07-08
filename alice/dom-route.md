@@ -256,8 +256,8 @@ Third spin | Tracy | Aby
 <br>
 <br>
 
-### Day 20 ---------------------
-- tell truth or lie to tracy
+### Day 20
+- tell truth or lie to tracy (lie will get corruption ending)
 
 <br>
 <br>
@@ -265,19 +265,16 @@ Third spin | Tracy | Aby
 
 ## Episode 11
 ### Day 21
-- a
+- Find the photo on the shelf, which has the password for the tablet
+  - The tablet is in the kitchen. You have to click it AFTER you clicked the photo
+  - The password is 0613
 
 <br>
 <br>
 
 ### Day 22
-- a
-
-<br>
-<br>
-
-### Day 23
-- a
+- collect 3 essences to progress
+  - You can also choose to visit all the girls, but it doesn’t give additional benefits
 
 <br>
 <br>
