@@ -123,7 +123,7 @@
 
 #### Evening events:
 - Terrace -> Alice and Mom -> Alice
-- Coffee shop -> Marcus -> Tell him?
+- Coffee shop -> Marcus -> Tell him
 - Go to your Aunt's house
 - Go to the library
 
@@ -223,17 +223,18 @@ Third spin | Tracy | Aby
 <br>
 <br>
 
-## Episode 8 ---------------------------------------------
+## Episode 8
 ### Day 15
-- You can choose to either follow Tracy and Nora, or go to the date with Aby
-  - If you go with Aby, you get a scene with her in the cinema, and she comes over.
-  - This is an important decision.
+- Alternate outfit
+- Meet Aby
 
 <br>
 <br>
 
 ### Day 16
-- You can choose 2 of the dreams to enter.
+- Choose any
+- Alice
+- Choose any
 
 <br>
 <br>
@@ -241,13 +242,13 @@ Third spin | Tracy | Aby
 
 ## Episode 9
 ### Day 17
-- a
+- Alternate outfit
 
 <br>
 <br>
 
 ### Day 18
-- a
+- Choose any for all of today's choices
 
 <br>
 <br>
@@ -255,13 +256,13 @@ Third spin | Tracy | Aby
 
 ## Episode 10
 ### Day 19
-- a
+- Alternate outfit
 
 <br>
 <br>
 
-### Day 20
-- a
+### Day 20 -----
+- tell truth or lie to tracy
 
 <br>
 <br>
@@ -290,3 +291,7 @@ Third spin | Tracy | Aby
 
 ### Day 24
 - a
+
+<!---
+include ending pic thing. say 'major spoilers'
+--->
