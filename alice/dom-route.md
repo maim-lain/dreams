@@ -26,7 +26,6 @@
 
 ### Day 2
 #### Morning:
-- Check PC -> Take a shower -> Get breakfast
 - Chat -> Do all 3 options
 - Compliment -> Food
 - Finish meal
@@ -46,7 +45,6 @@
 ## Episode 2
 ### Day 3
 #### Morning:
-- Check PC -> Take a shower -> Get breakfast
 - Chat -> Do all 3 options
 - Compliment -> Outfit
 - Finish meal
@@ -131,7 +129,7 @@
 <br>
 
 ### Day 8
-- Check PC -> Take a shower -> Get breakfast
+- No choices
 
 <br>
 <br>
@@ -141,7 +139,6 @@
 ### Day 9
 #### Morning:
 - Choose "Alternate outfit" for an ass scene or choose "Normal outfit" for a tits scene
-- Check PC -> Take a shower -> Go to Marcus
 - Choose any
 
 #### Dinner date:
@@ -155,7 +152,6 @@
 <br>
 
 ### Day 10
-- Check PC -> Take a shower -> Get breakfast
 - Alice
 - Choose either outfit
 
@@ -165,13 +161,12 @@
 
 ## Episode 6
 ### Day 11
-- Check PC -> Take a shower -> Go to library
+- No choices
 
 <br>
 <br>
 
 ### Day 12
-- Check PC -> Take a shower -> Get breakfast
 - Choose any
 - Alice
 - Choose one:
@@ -261,7 +256,7 @@ Third spin | Tracy | Aby
 <br>
 <br>
 
-### Day 20 -----
+### Day 20 ---------------------
 - tell truth or lie to tracy
 
 <br>
