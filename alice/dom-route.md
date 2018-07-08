@@ -284,5 +284,5 @@ Third spin | Tracy | Aby
 <br>
 
 ## Episode 12
-### Corruption ending:
+### Corruption ending
 - Congrats, you beat the game!
