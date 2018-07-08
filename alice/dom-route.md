@@ -275,20 +275,14 @@ Third spin | Tracy | Aby
 
 <br>
 <br>
-<br>
 
-## Episode 12
 ### Day 23
 - a
 
 <br>
 <br>
+<br>
 
-### Day 24
-- a
-
-<!---
-nah just do corruption end
-
-include ending pic thing. say 'major spoilers'
---->
+## Episode 12
+### Corruption ending:
+- Congrats, you beat the game!
