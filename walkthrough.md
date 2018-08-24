@@ -5,7 +5,7 @@
 <br>
 
 - [Alice - Dominant Route (100% complete)](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
-- [Tracy - Dominant Route (15% complete)](https://github.com/maim-lain/dreams/blob/master/tracy/dom-route.md)
+- [Tracy - Dominant Route (50% complete)](https://github.com/maim-lain/dreams/blob/master/tracy/dom-route.md)
 
 <br>
 <br>
