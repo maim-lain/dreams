@@ -152,3 +152,32 @@
 
 <br>
 <br>
+
+<br>
+<br>
+
+### Day 10
+- Alice
+- Choose either outfit
+
+<br>
+<br>
+<br>
+
+## Episode 6
+### Day 11
+- No choices
+
+<br>
+<br>
+
+### Day 12
+- Choose any
+- Choose two:
+  - Alice (nip slip)
+  - Jenna (throat fuck)
+  - Mom (fingering)
+
+<br>
+<br>
+<br>
