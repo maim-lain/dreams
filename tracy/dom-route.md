@@ -153,11 +153,8 @@
 <br>
 <br>
 
-<br>
-<br>
-
 ### Day 10
-- Alice
+- Tracy
 - Choose either outfit
 
 <br>
