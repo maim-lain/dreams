@@ -122,7 +122,33 @@
   - Library with Mom -> You can choose between two kinds of scenes, no story relevance, pick which you like more
 
 #### Evening events:
-- Terrace -> Alice and Mom -> Alice
+- Terrace -> Alice and Mom -> Choose either
 - Coffee shop -> Marcus -> Tell him
 - Go to your Aunt's house
 - Go to the library
+
+<br>
+<br>
+
+### Day 8
+- No choices
+
+<br>
+<br>
+<br>
+
+## Episode 5
+### Day 9
+#### Morning:
+- Choose "Alternate outfit" for an ass scene or choose "Normal outfit" for a tits scene
+- Choose any
+
+#### Dinner date:
+- Yes
+- She's alright
+- Choose "Offer a shot" both times
+- Business consultant
+- Mr. Catsup
+
+<br>
+<br>
