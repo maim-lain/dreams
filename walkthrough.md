@@ -4,8 +4,8 @@
 <br>
 <br>
 
-- [Alice - Dominant Route (100% complete)](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
-- [Tracy - Dominant Route (50% complete)](https://github.com/maim-lain/dreams/blob/master/tracy/dom-route.md)
+- [Alice - Corrupt Route (100% complete)](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+- [Tracy - Corrupt Route (50% complete)](https://github.com/maim-lain/dreams/blob/master/tracy/dom-route.md)
 
 <br>
 <br>
@@ -18,11 +18,11 @@
 <!---
 
 - Alice - Love Route  
-- [Alice - Dominant Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
+- [Alice - Corrupt Route](https://github.com/maim-lain/dreams/blob/master/alice/dom-route.md)
 
 <br>
 
 - Tracy - Love Route
-- Tracy - Dominant Route
+- Tracy - Corrupt Route
 
 --->
